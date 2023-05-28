@@ -1,0 +1,2 @@
+# clip-japanese
+sampleimage
